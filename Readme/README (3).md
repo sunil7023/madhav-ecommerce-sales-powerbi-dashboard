@@ -103,12 +103,12 @@ This project uses a sample dataset for learning and portfolio purposes. It does 
 
 ---
 
-## 📬 Contact
+📬 Contact
 
-Available for freelance Power BI, Excel and reporting projects on **Upwork** and **Fiverr**.
+Available for freelance Power BI, Excel and reporting projects on Upwork and Fiverr.
 
-- **Name:** Sunil Luhar
-- **LinkedIn:** [My LinkedIn Profile](PASTE-YOUR-LINKEDIN-LINK-HERE)
-- **Upwork:** [My Upwork Profile](PASTE-YOUR-UPWORK-LINK-HERE)
-- **Fiverr:** [My Fiverr Profile](PASTE-YOUR-FIVERR-LINK-HERE)
-- **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)
+Name: Sunil Luhar
+LinkedIn: www.linkedin.com/in/sunil-luhar-b7ab69383
+Upwork:(https://www.upwork.com/freelancers/~012da964e093fca48f)
+Fiverr: https://www.fiverr.com/s/Q2rQrN1
+Email: luharsunil965@gmail.com
