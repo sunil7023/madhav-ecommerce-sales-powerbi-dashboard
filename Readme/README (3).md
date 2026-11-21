@@ -64,21 +64,6 @@ To combine two raw data tables (orders and order details) into one dashboard tha
 | Design | Custom dark theme, consistent colors, clear layout |
 
 ---
-
-## 📁 Repository Structure
-
-```
-madhav-ecommerce-sales-powerbi-dashboard/
-│
-├── ecommerce_sales_dashboard.pbix   # Power BI report file
-├── data/
-│   ├── Orders.csv                   # Order ID, date, customer, state, city
-│   └── Details.csv                  # Amount, profit, quantity, category, payment mode
-├── screenshots/
-│   └── dashboard.png
-└── README.md
-```
-
 ---
 
 ## 📂 Data Description
